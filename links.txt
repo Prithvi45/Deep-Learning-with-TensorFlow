@@ -1,0 +1,5 @@
+GPU setup for Deep Learning
+http://research.computing.yale.edu/support/hpc/user-guide/using-gpus-python-deep-learning
+
+https://developer.nvidia.com/cudnn
+install accelerate
