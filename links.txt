@@ -3,3 +3,21 @@ http://research.computing.yale.edu/support/hpc/user-guide/using-gpus-python-deep
 
 https://developer.nvidia.com/cudnn
 install accelerate
+
+a to z
+
+http://www.nvidia.com/object/gpu-accelerated-applications-tensorflow-installation.html
+
+
+install tensorflow on GPU instance
+https://github.com/Avsecz/aws-tensorflow-setup/blob/master/setup-aws-tensorflow.bash
+
+
+
+Driver Installation
+https://gist.github.com/wangruohui/df039f0dc434d6486f5d4d098aa52d07
+
+
+
+Digit Recogn
+https://apsportal.ibm.com/exchange/public/entry/view/efb51900cc9d687fb9f05b2eabb66cb5
