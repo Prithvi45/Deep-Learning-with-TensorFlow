@@ -21,3 +21,15 @@ https://gist.github.com/wangruohui/df039f0dc434d6486f5d4d098aa52d07
 
 Digit Recogn
 https://apsportal.ibm.com/exchange/public/entry/view/efb51900cc9d687fb9f05b2eabb66cb5
+
+
+
+Study Materials:
+Neural Networks and Deep Learning:-
+http://neuralnetworksanddeeplearning.com/
+
+http://www.holehouse.org/mlclass/
+
+
+Deep Learning using Tensorflow:
+http://web.stanford.edu/class/cs20si/syllabus.html  
